@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "app.ethica",
+            "sha256_cert_fingerprints": [
+                "69:BD:13:57:5A:C6:20:10:D2:65:20:C8:AF:94:86:B9:AA:9D:37:15:4F:2A:22:FF:7E:A0:E4:49:7D:AE:FF:F9"
+            ]
+        }
+    }
+]
